@@ -12,7 +12,7 @@ This project adopts from the course project of Computer Networks 2020 Fall at Sh
 
 ## Prerequisites
 
-We strongly recommend that you run the code in a conda environment with `Python 3.7.9`. The code has been tested on a Windows 10 machine.
+We strongly recommend that you run the code in a conda environment with `Python 3.7.9`. The code has been tested both on a Windows 10 machine and on a MacOS MacBook Pro.
 
 ```bash
 bitarray 1.6.0
